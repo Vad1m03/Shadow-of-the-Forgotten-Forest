@@ -13,7 +13,7 @@
 
 2. **Склонируй репозиторий**
    ```bash
-   git clone https://github.com/ТВОЙ_НИК/Shadow-of-the-Forgotten-Forest.git
+   https://github.com/Vad1m03/Shadow-of-the-Forgotten-Forest.git
    ```
 
 3. **Перемести папку с игрой**
